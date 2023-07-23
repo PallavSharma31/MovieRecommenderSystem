@@ -13,7 +13,7 @@ To set up the Semantic Search Engine project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/PallavSharma31/ThePensivePost.git
+   git clone https://github.com/PallavSharma31/MovieRecommenderSystem.git
  2. Create a virtual environment.
 
     ```shell
